@@ -25,7 +25,7 @@ image::repo_structure.png[]
 
 === apps
 
-The apps folder is used to add any demo/example applications that will be used in course exercies, e.g. a Java application which will be used to show how to build the container image
+The apps folder is used to add any demo/example applications that will be used in course exercises, e.g. a Java application which will be used to show how to build the container image
 
 === documentation
 
