@@ -44,7 +44,7 @@ This is kind of the manifest file that uniquely identifies the course. More info
 
 ==== *Folder*: _documentation/modules_
 
-This directory holds the various modules that are part of this course. Module is a logical seperation of content. By default a ROOT module is created as part of the template.
+This directory holds the various modules that are part of this course. Module is a logical separation of content. By default a ROOT module is created as part of the template.
 
 === Navigation
 
@@ -161,6 +161,6 @@ The partials could be created in any module, if you wish to include a parital fr
 \include::foo:partial$exec_pod.adoc[]
 ------
 
-Refer to the https://docs.antora.org/antora/2.3/page/include-a-partial/[parital docs] for more patterns and customization.
+Refer to the https://docs.antora.org/antora/2.3/page/include-a-partial/[partial docs] for more patterns and customization.
 
 
